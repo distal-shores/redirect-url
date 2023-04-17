@@ -1,3 +1,15 @@
+<style>
+    thead tr th { 
+        text-align: left;
+    }
+    th, td {
+        padding-right: 0.5rem;
+    }
+    table {
+        margin-bottom: 2rem;
+    }
+</style>
+
 <h1>Redirects</h1>
 
 <table>
